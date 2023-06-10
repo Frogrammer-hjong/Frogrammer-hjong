@@ -1,6 +1,7 @@
 # Hi, I'm HeeJong Lee ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
  * Frog-rammer growing up dreaming of becoming a front-end developer who values the user experience the most.
 
+<a href="https://frogrammer.notion.site/Coding-Test-Practice-180c69a688174a2a8f9ac5c726e53901?pvs=4"><img src="https://img.shields.io/badge/Study Note-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"></a>
 ## Programming Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
